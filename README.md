@@ -1,6 +1,6 @@
 ## Description
 
-This project is the parent for all ginkgo and derivatives of gonkgo
+This is the gateway service for ginkgo
 
 ## Dependency
 
